@@ -1,6 +1,6 @@
 package TransportCategories;
 
-public class Car {
+public class Car implements ICar {
     private int year;
     private double price;
     private String licensePlate;
